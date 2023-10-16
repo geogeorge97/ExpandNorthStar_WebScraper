@@ -1,4 +1,4 @@
-# Automated Web Scraper to fetch details of data science based startups in UAE for Expand North Star 2023 and store in Excel for Job Applications
+# Automated Web Scraper using Python to fetch details of data science based startups in UAE for Expand North Star 2023 and store in Excel for Job Applications
 
 Website - https://exhibitors.expandnorthstar.com/north-star-2023/Exhibitor
 
