@@ -1,2 +1,2 @@
-# Automated Web Scraper to fetch Exhibitor List and contact information from Expand North Start 2023 Website
+# Automated Web Scraper to fetch Company Name, Website and LinkedIn details from Exhibit List on Expand North Star Website https://exhibitors.expandnorthstar.com/north-star-2023/Exhibitor
 
